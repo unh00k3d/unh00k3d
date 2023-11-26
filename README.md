@@ -1,10 +1,8 @@
 <div align="center">
-  <img height="150" src="profile.mp4"  />
+  <img height="150" src="profile.gif"  />
 </div>
 
 ###
-
-
 
 
 <div align="center">
