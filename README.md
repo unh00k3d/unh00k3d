@@ -30,7 +30,7 @@
 
 ###
 
-<p align="left">I'm unh00k3d from turkey<br><br>- 🔭 I’m working as independent software developer<br>- 📚 I'm currently studying mathematical engineering at Yıldız Technical University<br>- ⚡ In my free time I learn about computer vision and artificial intelligence</p>
+<p align="left">I'm unh00k3d from turkey<br><br>- 🔭 I’m working as independent software developer<br>- 📚 I'm currently studying Applied Mathematics and Computer Science<br>- ⚡ In my free time I learn about computer vision and artificial intelligence</p>
 
 ###
 
