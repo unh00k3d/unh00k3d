@@ -60,15 +60,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=unh00k3d&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
 
@@ -76,18 +67,10 @@
 <img src="https://myreadme.vercel.app/api/embed/unh00k3d?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 ###
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=unh00k3d&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-
-<h3 align="left">☕️   Coding I do in my spare time :</h3>
-<div align = "center">
-
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=unh00k3d&theme=dark)](https://github.com/ignacio-cuadra/github-readme-codewars)
-
-###
-
-[![unh00k3d's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=unh00k3d&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 
   
 </div>
