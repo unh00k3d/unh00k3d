@@ -4,18 +4,6 @@
 
 ###
 
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/unh00k3d/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.youtube.com/channel/UC2orIgI4ObFsHsU1dHUp6lg" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  </a>
-</div>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/unh00k3d/count.svg?"  />
 </div>
@@ -30,7 +18,7 @@
 
 ###
 
-<p align="left">I'm unh00k3d from turkey<br><br>- 🔭 I’m working as independent software developer<br>- 📚 I'm currently studying Applied Mathematics and Computer Science<br>- ⚡ In my free time I learn about computer vision and artificial intelligence</p>
+<p align="left">I'm a developer from turkey<br><br>- 🔭 I’m working as independent software developer<br>- 📚 I'm currently studying Applied Mathematics and Computer Science<br>- ⚡ In my free time I learn about computer vision and artificial intelligence</p>
 
 ###
 
